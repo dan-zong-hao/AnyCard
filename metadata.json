@@ -1,0 +1,5 @@
+{
+  "name": "Time Magic",
+  "description": "A magic trick app simulating an Always-On Display. Predict cards based on time seconds or hidden triggers.",
+  "requestFramePermissions": []
+}
